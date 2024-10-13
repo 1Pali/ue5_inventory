@@ -1,0 +1,51 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/Item/Blueprints/BP_Base_Item.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/Item/Blueprints/S_Item.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/FirstPerson/Input/Actions/IA_Interact.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/FirstPerson/Input/Actions/IA_Inventory.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/HUD/Blueprints/BP_HUD.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/HUD/Widgets/WB_HUD.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/Item/Blueprints/BPI_Item.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/Inventory/Blueprints/BPC_Inventory.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/Inventory/Widgets/WB_Inventory.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/Inventory/Widgets/WB_Inventory_Slot.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/Storage/Widgets/WB_Storage.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/HUD/Blueprints/BPI_HUD.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/User_Inventory/Widgets/WB_User_Inventory.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/Inventory/Blueprints/BPI_Inventory.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/Storage/Blueprints/BP_Base_Storage.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PU/3T6DR5K1Y1HFY7W3O2GG7O.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/OT/NS9QKING8JC8VFAVTAHIS1.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/Inventory/Widgets/WB_Slot_Options_Popover.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/Inventory/Widgets/WB_Slot_Option.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/ZY/H091AXP6E2YNJRZ0PGSKCO.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/PK/CBC2FCVWH980GDHKSCFWRO.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/5N/U8ME1G5G6IJOGEXSX2TXVP.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/0I/LLIEE7MTXNOHO2DQ82R4NN.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/Item/Blueprints/BP_Item_Wood.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/Item/Blueprints/PB_Item_Stone.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/Inventory/Widgets/WB_Inventory_Item_Amount.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/Item/Blueprints/BP_Item_Gold.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/Lamp/BP_Lamp.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/00/HOLXHTAXVSJT7TRGVPSI61.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/KA/R0BRNNV2HI9W22KOFBX4UI.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/AS/8CF1Z0NX8EI7DCDXM8KQ3U.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/P5/V79AGIHHNRVJS6DHNI3869.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/Item/Widgets/WB_Item.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/HUD/BP_HUD.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/User_Inventory/WB_User_Inventory.uasset",
+				"C:/ue_projects/want_to_achieve/Inventory_1/Content/Storage/Widgets/WB_Storage_I.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+[1012/200928.128:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1012/201102.553:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[1012/201102.567:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[1012/201102.578:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 2 time(s)
+[1012/201102.617:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 3 time(s)
+[1012/201102.629:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 4 time(s)
+[1012/201102.642:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 5 time(s)
+[1012/201102.656:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 6 time(s)
+[1012/201102.656:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
